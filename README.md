@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">🌱 I’m currently learning <strong>Frameworks, React, DSA</strong></p>
-<p align="center">👨‍💻 All of my projects are available at <a href="https://abhaykrishnag.github.io/Portfolio/">Portfolio</a></p>
+<p align="center">👨‍💻 All of my projects are available at <a href="https://abhaykrishnag.github.io/portfolio/">Portfolio</a></p>
 <p align="center">💬 Ask me about <strong>HTML, CSS, JS, PYTHON, C, C#, JAVA</strong></p>
 <p align="center">📫 How to reach me: <strong>abhayganesh154@gmail.com</strong></p>
 <p align="center">📄 Know about my experiences: <a href="https://drive.google.com/file/d/1bT6u223KAKY60xxxyjbat_Bt_Bee8mVd/view?usp=drive_link">Resume</a></p>
