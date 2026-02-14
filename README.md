@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Abhay Krishna </h1>
 
 <p align="left">
-Aspiring Software Developer • Frontend Developer • Prompt Engineer
+Aspiring AI Engineer • FullStack Developer • Prompt Engineer
 </p>
 
 <h3 align="left">SUMMARY</h3>
