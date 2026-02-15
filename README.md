@@ -1,13 +1,13 @@
 <h1 align="left">Hi, I'm Abhay Krishna </h1>
 
 <p align="left">
-Aspiring AI Engineer • FullStack Developer • Prompt Engineer
+Aspiring GenAI Engineer • Backend Developer • AI-Augmented Engineer
 </p>
 
 <h3 align="left">SUMMARY</h3>
 
 <p align="left">
-Final-year Computer Applications student skilled in Front-End Development, Python programming, and Prompt Engineering. Worked with ReactJS, REST APIs, Git, and Figma. Capable of building responsive, user-centric interfaces and solving technical problems with clean, maintainable code.
+Backend focused developer specializing in Node.js and real-time web systems. Experience designing REST APIs, authentication systems (JWT-based), WebSocket driven updates, and relational/non-relational database schemas using MySQL and MongoDB. Strong hands-on exposure to AI augmented development workflows using tools such as Cursor, Claude, Antigravity, Codewiki, Bubble, and Lovable for code generation, architecture planning, documentation, and refactoring. Passionate about building scalable backend systems with structured engineering practices.
 </p>
 
 
