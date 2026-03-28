@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Abhay Krishna </h1>
 
 <p align="left">
-Aspiring GenAI Engineer • Backend Developer • AI-Augmented Engineer
+Aspiring AI Engineer • Backend Engineer 
 </p>
 
 <h3 align="left">SUMMARY</h3>
